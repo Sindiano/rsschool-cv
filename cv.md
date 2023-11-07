@@ -1,16 +1,14 @@
-# rsschool-cv
-
-## Ilya Lubchonak
+# Ilya Lubchonak
 
 ## Contact Information
-* Email: Sindiano@yandex.ru
-* Phone: +375(25)750-69-36
-* GitHub: Sindiano
+* **Email:** Sindiano@yandex.ru
+* **Phone:** +375(25)750-69-36
+* **GitHub:** Sindiano
 
-## Brief Self-Introduction (your goals and priorities, emphasize your strengths, describe your work experience if applicable, or your desire to learn and acquire new skills)
+## Brief Self-Introduction
 
 
-## Skills (programming languages, frameworks, methodologies, version control systems, and development tools you are proficient in)
+## Skills
 * C#
 * SQL
 * HTML
@@ -44,7 +42,9 @@ check = function(array,iPos,jPos,checkDI){
 
 snail = function(array) {
   if(array[0].length  == 0) return [];
-  let n = array[0].length, ic = Math.floor(n / 2), jc = Math.floor(n/2) - (n%2==0?1:0);
+  let   n = array[0].length, 
+        ic = Math.floor(n / 2),
+        jc = Math.floor(n/2) - (n%2==0?1:0);
   let i = 0, j = 0, di = 0, res = [];
   while (check(array,i,j,(di+1)%4)){
       res.push(array[i][j]);
@@ -75,4 +75,4 @@ Department of Software Engineering (didn't finish, 3 years)
 
 ## English Language
 
-Proficiency level: B2
+**Proficiency level: B2**
