@@ -3,19 +3,19 @@
 ## Ilya Lubchonak
 
 ## Contact Information
-### Email: Sindiano@yandex.ru
-### Phone: +375(25)750-69-36
-### GitHub: Sindiano
+* Email: Sindiano@yandex.ru
+* Phone: +375(25)750-69-36
+* GitHub: Sindiano
 
 ## Brief Self-Introduction (your goals and priorities, emphasize your strengths, describe your work experience if applicable, or your desire to learn and acquire new skills)
 
 
 ## Skills (programming languages, frameworks, methodologies, version control systems, and development tools you are proficient in)
-### C#
-### SQL
-### HTML
-### CSS
-### JS
+* C#
+* SQL
+* HTML
+* CSS
+* JS
 
 ## Code Examples
 
@@ -66,9 +66,13 @@ snail = function(array) {
 ## Work Experience
 
 ## Education
-### Belarusian State Technological University,
-### Information Technology Faculty,
-### Department of Software Engineering (didn't finish, 3 years)
+
+Belarusian State Technological University,
+
+Information Technology Faculty,
+
+Department of Software Engineering (didn't finish, 3 years)
 
 ## English Language
-### Proficiency level: B2
+
+Proficiency level: B2
