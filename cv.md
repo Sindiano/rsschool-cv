@@ -1,21 +1,27 @@
 # rsschool-cv
 
-Ilya Lubchonak
+## Ilya Lubchonak
 
-Contact Information
-Email: Sindiano@yandex.ru
-Phone: +375(25)750-69-36
-GitHub: Sindiano
+## Contact Information
+### Email: Sindiano@yandex.ru
+### Phone: +375(25)750-69-36
+### GitHub: Sindiano
 
-Brief Self-Introduction (your goals and priorities, emphasize your strengths, describe your work experience if applicable, or your desire to learn and acquire new skills)
+## Brief Self-Introduction (your goals and priorities, emphasize your strengths, describe your work experience if applicable, or your desire to learn and acquire new skills)
 
 
-Skills (programming languages, frameworks, methodologies, version control systems, and development tools you are proficient in)
-C#, SQL, HTML, CSS, JS
+## Skills (programming languages, frameworks, methodologies, version control systems, and development tools you are proficient in)
+### C#
+### SQL
+### HTML
+### CSS
+### JS
 
-Code Examples
-(Solution to [Kata](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1 "Snail") on CodeWars)
-```Java Script
+## Code Examples
+
+*(Solution to [Kata](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1 "Snail") on CodeWars)*
+
+```JavaScript
 
 const Directions = [
   [0,1],      //right
@@ -57,12 +63,12 @@ snail = function(array) {
 }
 ```
 
-Work Experience
+## Work Experience
 
-Education
-Belarusian State Technological University,
-Information Technology Faculty,
-Department of Software Engineering (didn't finish, 3 years)
+## Education
+### Belarusian State Technological University,
+### Information Technology Faculty,
+### Department of Software Engineering (didn't finish, 3 years)
 
-English Language
-Proficiency level: B2
+## English Language
+### Proficiency level: B2
