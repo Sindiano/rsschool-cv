@@ -1,9 +1,9 @@
 # Ilya Lubchonak
 
 ## Contact Information
-* Email: Sindiano@yandex.ru
-* Phone: +375(25)750-69-36
-* GitHub: Sindiano
+* **Email:** Sindiano@yandex.ru
+* **Phone:** +375(25)750-69-36
+* **GitHub:** Sindiano
 
 ## Brief Self-Introduction
 
@@ -17,7 +17,7 @@
 
 ## Code Examples
 
-*(Solution to [Kata](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1 "Snail") on CodeWars)*
+*(Solution to **[Kata](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1 "Snail")** on CodeWars)*
 
 ```JavaScript
 
@@ -75,4 +75,4 @@ Department of Software Engineering (didn't finish, 3 years)
 
 ## English Language
 
-Proficiency level: B2
+**Proficiency level: B2**
