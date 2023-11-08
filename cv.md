@@ -1,23 +1,23 @@
- Ilya Lubchonak
+# Ilya Lubchonak
 
- Contact Information
+## Contact Information
 Email: Sindiano@yandex.ru
 Phone: +375(25)750-69-36
 GitHub: Sindiano
 
- Brief Self-Introduction
+## Brief Self-Introduction
 
 
- Skills
+## Skills
 C#
 SQL
 HTML
 CSS
 JS
 
- Code Examples
+## Code Examples
 
-(Solution to [Kata](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1 "Snail") on CodeWars)
+*(Solution to [Kata](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1 "Snail") on CodeWars)*
 
 ```JavaScript
 
@@ -63,9 +63,9 @@ snail = function(array) {
 }
 ```
 
- Work Experience
+## Work Experience
 
- Education
+## Education
 
 Belarusian State Technological University,
 
@@ -73,6 +73,6 @@ Information Technology Faculty,
 
 Department of Software Engineering (didn't finish, 3 years)
 
- English Language
+## English Language
 
 Proficiency level: B2
