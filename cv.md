@@ -1,19 +1,19 @@
 # Ilya Lubchonak
 
 ## Contact Information
-Email: Sindiano@yandex.ru
-Phone: +375(25)750-69-36
-GitHub: Sindiano
+* Email: Sindiano@yandex.ru
+* Phone: +375(25)750-69-36
+* GitHub: Sindiano
 
 ## Brief Self-Introduction
 
 
 ## Skills
-C#
-SQL
-HTML
-CSS
-JS
+* C#
+* SQL
+* HTML
+* CSS
+* JS
 
 ## Code Examples
 
