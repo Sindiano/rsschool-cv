@@ -1,10 +1,24 @@
 body{
-    background-color: darkgrey;
+    background-color: rgb(120, 120, 154);
 }
 #left-block {
     width: 50%;
-    position: relative;
+    position: absolute;
     left: -20%;
     height: min-content;
     rotate: -90deg;
+}
+#left-text{
+    font-size: 40px;
+    font-family: fantasy;
+    font-stretch: expanded;
+}
+#photo {
+    position: absolute;
+    left: 70%;
+    top: 50%;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    object-position: bottom;
 }
