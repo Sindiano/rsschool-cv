@@ -1,1 +1,1 @@
-https://Sindiano.github.io/rsschool-cv/cv
+https://Sindiano.github.io/rsschool-cv/
