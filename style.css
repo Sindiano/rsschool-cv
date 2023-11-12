@@ -1,0 +1,10 @@
+body{
+    background-color: darkgrey;
+}
+#left-block {
+    width: 50%;
+    position: relative;
+    left: -20%;
+    height: min-content;
+    rotate: -90deg;
+}
